@@ -1,0 +1,2 @@
+/*! Built with http://stenciljs.com */
+const{h:n}=window.bscomponents;import{i as o,A as t}from"./chunk-89dac778.js";var r=0,a=function(n){var t=++r;return o(n)+t};function s(n){const o=btoa(t(Math.random())).substring(5,10);return a(`${n}-${o}-`)}export{s as a};

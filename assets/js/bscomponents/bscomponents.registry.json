@@ -3,12 +3,12 @@
   "fsNamespace": "bscomponents",
   "loader": "../bscomponents.js",
   "global": "bscomponents.global.js",
-  "core": "bscomponents.gfccht4t.js",
+  "core": "bscomponents.g1nu6hwe.js",
   "corePolyfilled": "bscomponents.z9a9vg1o.js",
   "components": {
     "bs-alert": {
       "bundleIds": {
-        "$": "9vzaoi4i"
+        "$": "e4lxjvth"
       }
     },
     "bs-button": {
@@ -18,27 +18,32 @@
     },
     "bs-collapse": {
       "bundleIds": {
-        "$": "hnmfcwny"
+        "$": "5bnkfv8f"
       }
     },
     "bs-dropdown": {
       "bundleIds": {
-        "$": "etvy2hez"
+        "$": "rob2mfyn"
       }
     },
     "bs-modal": {
       "bundleIds": {
-        "$": "bz5xowh8"
+        "$": "qegha6te"
+      }
+    },
+    "bs-scrollspy": {
+      "bundleIds": {
+        "$": "rp5axphx"
       }
     },
     "bs-tab": {
       "bundleIds": {
-        "$": "nw0nkmri"
+        "$": "blndqkmr"
       }
     },
     "bs-tooltip": {
       "bundleIds": {
-        "$": "zi9fcmz0"
+        "$": "hxtzahph"
       }
     }
   }

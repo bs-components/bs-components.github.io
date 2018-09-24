@@ -1,0 +1,2 @@
+/*! Built with http://stenciljs.com */
+const{h:t}=window.bscomponents;import{z as o,c as n,d as r}from"./chunk-89dac778.js";var c=o(Object.getPrototypeOf,Object),e=Function.prototype,a=Object.prototype,s=e.toString,u=a.hasOwnProperty,p=s.call(Object),i=function(t){return r(t)&&1===t.nodeType&&!function(t){if(!r(t)||"[object Object]"!=n(t))return!1;var o=c(t);if(null===o)return!0;var e=u.call(o,"constructor")&&o.constructor;return"function"==typeof e&&e instanceof e&&s.call(e)==p}(t)};export{i as a};
