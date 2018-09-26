@@ -3,7 +3,7 @@
   "fsNamespace": "bscomponents",
   "loader": "../bscomponents.js",
   "global": "bscomponents.global.js",
-  "core": "bscomponents.g1nu6hwe.js",
+  "core": "bscomponents.gfccht4t.js",
   "corePolyfilled": "bscomponents.z9a9vg1o.js",
   "components": {
     "bs-alert": {
@@ -13,7 +13,7 @@
     },
     "bs-button": {
       "bundleIds": {
-        "$": "q1wmpfhq"
+        "$": "oqaurute"
       }
     },
     "bs-collapse": {
@@ -33,7 +33,7 @@
     },
     "bs-scrollspy": {
       "bundleIds": {
-        "$": "rp5axphx"
+        "$": "lmuqxdwr"
       }
     },
     "bs-tab": {
